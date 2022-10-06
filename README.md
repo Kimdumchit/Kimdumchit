@@ -1,4 +1,4 @@
-<align="center" img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Koronba&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=timeauto&height=300&section=header&text=Koronba&fontSize=90" />
 <h3 align="center"> - Gachon University Computer Engineering Major </h3>
 <h3 align="center"> - CodeStates SEB Back-End Bootcamp 40th </h3>
 <h3 align="center"> Tech Stack </h3>

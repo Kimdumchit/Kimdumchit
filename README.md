@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ramdo,&height=300&section=header&text=Koronba&fontSize=50" />
+<h1 align="center"> Koronba
 <h3 align="center"> - Gachon University Computer Engineering Major </h3>
 <h3 align="center"> - CodeStates SEB Back-End Bootcamp 40th </h3>
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> ⚒Tech Stack⚒ </h3>
+   
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -14,4 +15,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimdumchit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>

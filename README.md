@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Koronba&fontSize=90" />
+<align="center" img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Koronba&fontSize=90" />
 <h3 align="center"> - Gachon University Computer Engineering Major </h3>
 <h3 align="center"> - CodeStates SEB Back-End Bootcamp 40th </h3>
 <h3 align="center"> Tech Stack </h3>
@@ -13,4 +13,3 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Koronba&fontSize=90" />

@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
-<h1 align="center"> BLOG
+<h3 align="center"> BLOG </h3>
 <p align="center"><a href="https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"/></a>
 
    

@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center"> BLOG
-<p align="center"><a href="https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"><img src="https://img.shields.io/badge/Notion-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"/></a>
+<p align="center"><a href="https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://harang1212627.notion.site/7b53a15c33664e4d93e952c5c05ce9fc"/></a>
 
    

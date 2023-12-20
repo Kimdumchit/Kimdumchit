@@ -1,4 +1,5 @@
-<h1 align="center"> 김영훈
+<h1 align="center"> 김영훈 / Younghoon Kim
+
 <h3 align="center"> - Gachon University Computer Engineering Major </h3>
 <h3 align="center"> - CodeStates SEB Back-End Bootcamp 40th </h3>
 <h3 align="center"> ⚒Tech Stack⚒ </h3>
